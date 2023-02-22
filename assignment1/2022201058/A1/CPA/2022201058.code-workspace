@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../../Downloads/POIS/output"
+	},
+	{
+		"path": "../../../../Downloads/POIS/inputs"
+	}
+],
+  "settings": {}
+}
